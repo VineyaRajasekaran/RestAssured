@@ -935,3 +935,89 @@
 12:38:38.373 [main] DEBUG RESTFramework.JavaPracticeTest - dcb75f2e855d4675f6692ab0bacb5fdf
 12:38:38.394 [main] DEBUG RESTFramework.JavaPracticeTest - delete
 12:38:39.030 [main] DEBUG RESTFramework.JavaPracticeTest - {"status":"OK"}
+13:10:02.026 [main] DEBUG RESTFramework.OAuth2Test - C:\Users\dinav\RestAssuredProject\src\main\java\files\env.properties
+13:10:05.924 [main] DEBUG RESTFramework.JSONFromHashMapTest - Id is : 2345hgd
+13:10:07.217 [main] DEBUG RESTFramework.GooglePlaceSearchTest - {
+   "error_message" : "You have exceeded your daily request quota for this API. If you did not set a custom daily request quota, verify your project has an active billing account: http://g.co/dev/maps-no-account",
+   "html_attributions" : [],
+   "results" : [],
+   "status" : "OVER_QUERY_LIMIT"
+}
+
+13:10:07.232 [main] DEBUG RESTFramework.GooglePlaceSearchTest - 0
+13:10:07.830 [main] DEBUG RESTFramework.AddDeletePlaceXmlTest - <?xml version="1.0"?>
+<response><status>OK</status><place_id>9939fdaddda0274851203984ce11d0fd</place_id><scope>APP</scope><reference>6efe429324122e7c7d9425db7ebe80b86efe429324122e7c7d9425db7ebe80b8</reference><id>6efe429324122e7c7d9425db7ebe80b8</id></response>
+
+13:10:07.977 [main] DEBUG RESTFramework.AddDeletePlaceXmlTest - placeid is 9939fdaddda0274851203984ce11d0fd
+13:10:08.723 [main] DEBUG RESTFramework.AddDeletePlaceXmlTest - <?xml version="1.0"?>
+<response><status>OK</status></response>
+
+13:10:09.432 [main] DEBUG RESTFramework.AddDeletePlaceJsonTest - placeid is a5375f8d52f1c10c947d915f4189707c
+13:10:10.103 [main] DEBUG RESTFramework.AddDeletePlaceJsonTest - {"status":"OK"}
+13:10:10.791 [main] DEBUG RESTFramework.AddBookParametrizationTest - Id is : Aqxtc11323
+13:10:11.389 [main] DEBUG RESTFramework.AddBookParametrizationTest - I am in AddBookParametrization : isbn : Aqxtc aisle: 11323
+13:10:12.079 [main] DEBUG RESTFramework.AddBookParametrizationTest - Id is : Auuatxd36494
+13:10:12.669 [main] DEBUG RESTFramework.AddBookParametrizationTest - I am in AddBookParametrization : isbn : Auuatxd aisle: 36494
+13:10:13.323 [main] DEBUG RESTFramework.AddBookParametrizationTest - Id is : Aghtjhj3284434
+13:10:13.930 [main] DEBUG RESTFramework.AddBookParametrizationTest - I am in AddBookParametrization : isbn : Aghtjhj aisle: 3284434
+13:10:29.881 [main] DEBUG RESTFramework.OAuth2Test - currenturlhttps://rahulshettyacademy.com/getCourse.php?code=4%2FtgEG1AClzGv5TorDBJNtw1mQFhmM4IzvryXShVIQ41NXjpGh_jwuwLrX7hH3FfmVzcwNUxIIb5oO55A-Mjxtsrg&scope=email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&session_state=1076f216722c85404791aa28fded3ef07d5e42fa..3313&prompt=none#
+13:10:29.882 [main] DEBUG RESTFramework.OAuth2Test - authcodehttps://rahulshettyacademy.com/getCourse.php?code=4%2FtgEG1AClzGv5TorDBJNtw1mQFhmM4IzvryXShVIQ41NXjpGh_jwuwLrX7hH3FfmVzcwNUxIIb5oO55A-Mjxtsrg
+13:10:29.889 [main] DEBUG RESTFramework.OAuth2Test - url14%2FtgEG1AClzGv5TorDBJNtw1mQFhmM4IzvryXShVIQ41NXjpGh_jwuwLrX7hH3FfmVzcwNUxIIb5oO55A-Mjxtsrg
+13:10:30.313 [main] DEBUG RESTFramework.OAuth2Test - {
+  "access_token": "ya29.ImCyB8ebVSyzyvw7HHU-PrXSYNhouhNsbEBghrL9zep-Xw98VeZctXqvy6vDU8AdcKcM3X1lNhHnQXssf77uLUWvMH4BSXYHSOPxliAH8Tr0WAEsp-kv4cqPJvfHPj-gYy4",
+  "expires_in": 3597,
+  "scope": "https://www.googleapis.com/auth/userinfo.email openid",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImRlZThkM2RhZmJmMzEyNjJhYjkzNDdkNjIwMzgzMjE3YWZkOTZjYTMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI2OTIxODMxMDMxMDctcDBtN2VudDJoazdzdWd1djR2cTIyaGpjZmhjcjQzcGouYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI2OTIxODMxMDMxMDctcDBtN2VudDJoazdzdWd1djR2cTIyaGpjZmhjcjQzcGouYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTAzMzE3NzUxODU1ODgxNjg4OTUiLCJlbWFpbCI6InZpbmV5YUBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6Im83bkE5bkVSWE02WjBpRTRHSWxpTWciLCJpYXQiOjE1NzQ3OTU0MjksImV4cCI6MTU3NDc5OTAyOX0.H61ol0xcMzI8Nfk-PxdREO0qIy6dwVczAcEUdC0tLUQ8IEpxlZ37BDhK-ydhpZrN6nEpWxd00oxu1fm5TYelP1F2FbDy7p5M25HYQv-TJfXwEkHSDUnOS5ba_nBexGWqLBJVryl9ZWK0kZKeWDFCRXXPSnGBfcFeLTZa7CgXjpoc_Q1jyH9nhreajnSoiGw2uQycn-qIPW3ohChaeJ7OtNPGTlvMfAxTsjOp4UM80HMV3IRDynFprhP6hz35ct3ypz5Xnjm9sh8_jyPqdIQZDUKdNAAcptZ7LaackLoXSYvZ-0Lugd6ocAHEbKKnSS0jIwaVQEEsTj86cdPbD8sTWA"
+}
+13:10:30.328 [main] DEBUG RESTFramework.OAuth2Test - accesstokenya29.ImCyB8ebVSyzyvw7HHU-PrXSYNhouhNsbEBghrL9zep-Xw98VeZctXqvy6vDU8AdcKcM3X1lNhHnQXssf77uLUWvMH4BSXYHSOPxliAH8Tr0WAEsp-kv4cqPJvfHPj-gYy4
+13:10:32.003 [main] DEBUG RESTFramework.OAuth2Test - RahulShetty
+13:10:32.003 [main] DEBUG RESTFramework.OAuth2Test - https://www.linkedin.com/in/rahul-shetty-trainer/
+13:10:32.007 [main] DEBUG RESTFramework.OAuth2Test - 40
+13:10:32.618 [main] DEBUG RESTFramework.JavaPracticeTest - {"status":"OK","place_id":"09d7e68d317b5f377b3e8940fad2a4c6","scope":"APP","reference":"8a68500bfcedd7d1c4df252a782bf3458a68500bfcedd7d1c4df252a782bf345","id":"8a68500bfcedd7d1c4df252a782bf345"}
+13:10:32.637 [main] DEBUG RESTFramework.JavaPracticeTest - 09d7e68d317b5f377b3e8940fad2a4c6
+13:10:32.647 [main] DEBUG RESTFramework.JavaPracticeTest - delete
+13:10:33.284 [main] DEBUG RESTFramework.JavaPracticeTest - {"status":"OK"}
+14:15:06.590 [main] DEBUG RESTFramework.OAuth2Test - C:\Users\dinav\RestAssuredProject\src\main\java\files\env.properties
+14:15:10.291 [main] DEBUG RESTFramework.JSONFromHashMapTest - Id is : 2345hgd
+14:15:11.461 [main] DEBUG RESTFramework.GooglePlaceSearchTest - {
+   "error_message" : "You have exceeded your daily request quota for this API. If you did not set a custom daily request quota, verify your project has an active billing account: http://g.co/dev/maps-no-account",
+   "html_attributions" : [],
+   "results" : [],
+   "status" : "OVER_QUERY_LIMIT"
+}
+
+14:15:11.473 [main] DEBUG RESTFramework.GooglePlaceSearchTest - 0
+14:15:12.078 [main] DEBUG RESTFramework.AddDeletePlaceXmlTest - <?xml version="1.0"?>
+<response><status>OK</status><place_id>4efab3f7bb7fdbdebd60c437e5a3465f</place_id><scope>APP</scope><reference>456940ce4fb98f80b450819cbc2805cc456940ce4fb98f80b450819cbc2805cc</reference><id>456940ce4fb98f80b450819cbc2805cc</id></response>
+
+14:15:12.138 [main] DEBUG RESTFramework.AddDeletePlaceXmlTest - placeid is 4efab3f7bb7fdbdebd60c437e5a3465f
+14:15:12.846 [main] DEBUG RESTFramework.AddDeletePlaceXmlTest - <?xml version="1.0"?>
+<response><status>OK</status></response>
+
+14:15:13.487 [main] DEBUG RESTFramework.AddDeletePlaceJsonTest - placeid is a5cfc51c4286a831371adc89687ecbd6
+14:15:14.141 [main] DEBUG RESTFramework.AddDeletePlaceJsonTest - {"status":"OK"}
+14:15:14.745 [main] DEBUG RESTFramework.AddBookParametrizationTest - Id is : Aqxtc11323
+14:15:15.313 [main] DEBUG RESTFramework.AddBookParametrizationTest - I am in AddBookParametrization : isbn : Aqxtc aisle: 11323
+14:15:15.968 [main] DEBUG RESTFramework.AddBookParametrizationTest - Id is : Auuatxd36494
+14:15:16.544 [main] DEBUG RESTFramework.AddBookParametrizationTest - I am in AddBookParametrization : isbn : Auuatxd aisle: 36494
+14:15:17.222 [main] DEBUG RESTFramework.AddBookParametrizationTest - Id is : Aghtjhj3284434
+14:15:17.792 [main] DEBUG RESTFramework.AddBookParametrizationTest - I am in AddBookParametrization : isbn : Aghtjhj aisle: 3284434
+14:15:32.474 [main] DEBUG RESTFramework.OAuth2Test - currenturlhttps://rahulshettyacademy.com/getCourse.php?code=4%2FtgHfbb9BppFhj-NRPXGF6FGE1ZdkNOtpFB-lfsWCGnueUMBZY_hT-ocpis__6f10aOc5n1sVZtaE9ohS__XI6jc&scope=email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&session_state=e89931fb3468ff57feac026a4910eaa610adffa1..f79f&prompt=none#
+14:15:32.474 [main] DEBUG RESTFramework.OAuth2Test - authcodehttps://rahulshettyacademy.com/getCourse.php?code=4%2FtgHfbb9BppFhj-NRPXGF6FGE1ZdkNOtpFB-lfsWCGnueUMBZY_hT-ocpis__6f10aOc5n1sVZtaE9ohS__XI6jc
+14:15:32.479 [main] DEBUG RESTFramework.OAuth2Test - url14%2FtgHfbb9BppFhj-NRPXGF6FGE1ZdkNOtpFB-lfsWCGnueUMBZY_hT-ocpis__6f10aOc5n1sVZtaE9ohS__XI6jc
+14:15:32.889 [main] DEBUG RESTFramework.OAuth2Test - {
+  "access_token": "ya29.ImCyB0BD2m5XVqS2Au0UnNNXS0xRPFdFfjQ3eQHG9PeH9hintoxVl3Wj-NOFJfWdsN-CNZ22c3kmq3Rdy-V_bRBrXDCnxNiGxNUVrSWT88BV_qu1bHnFD1srRyMHgn6xlUA",
+  "expires_in": 3597,
+  "scope": "https://www.googleapis.com/auth/userinfo.email openid",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImRlZThkM2RhZmJmMzEyNjJhYjkzNDdkNjIwMzgzMjE3YWZkOTZjYTMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI2OTIxODMxMDMxMDctcDBtN2VudDJoazdzdWd1djR2cTIyaGpjZmhjcjQzcGouYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI2OTIxODMxMDMxMDctcDBtN2VudDJoazdzdWd1djR2cTIyaGpjZmhjcjQzcGouYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTAzMzE3NzUxODU1ODgxNjg4OTUiLCJlbWFpbCI6InZpbmV5YUBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6Imt4ODBQekVVamNMRUlkSXJFcGcyYnciLCJpYXQiOjE1NzQ3OTkzMzIsImV4cCI6MTU3NDgwMjkzMn0.pEYH_52zex1F9Om2gg5NUh1Trq3mWLcD7zo_pobkrGBoroS6hrEwKZwIdjID0_imeR23HlGqMd1DZPbugrM1IF7in6NrwXkkTCg-OzAbFWzsnu9ihi2DMFJBHAInWHyoJToVd__E2vrtwaho9zMzuGE8dNpYOPpsT4yb_6FmT7A9FxFW2Hy54ihitRHRAXFAN7z7BsJzI5aLvLC2VsnW4bMO7fYSG0Yq0GBFoOqJh0M3sffaC2QstWm_XmcPbkd26inZI1vPcZz6FYEM94uysPV94um19QguG6P-MuqCHonltL1VaFcvAxQVE-Vk2pUZYUSbhJn12LcYwBsYNuOFOA"
+}
+14:15:32.905 [main] DEBUG RESTFramework.OAuth2Test - accesstokenya29.ImCyB0BD2m5XVqS2Au0UnNNXS0xRPFdFfjQ3eQHG9PeH9hintoxVl3Wj-NOFJfWdsN-CNZ22c3kmq3Rdy-V_bRBrXDCnxNiGxNUVrSWT88BV_qu1bHnFD1srRyMHgn6xlUA
+14:15:34.598 [main] DEBUG RESTFramework.OAuth2Test - RahulShetty
+14:15:34.598 [main] DEBUG RESTFramework.OAuth2Test - https://www.linkedin.com/in/rahul-shetty-trainer/
+14:15:34.600 [main] DEBUG RESTFramework.OAuth2Test - 40
+14:15:35.206 [main] DEBUG RESTFramework.JavaPracticeTest - {"status":"OK","place_id":"b900a63ac5650f4273ae2f99b04c9c82","scope":"APP","reference":"b7fdfb0b3959bc68a411441914172a92b7fdfb0b3959bc68a411441914172a92","id":"b7fdfb0b3959bc68a411441914172a92"}
+14:15:35.237 [main] DEBUG RESTFramework.JavaPracticeTest - b900a63ac5650f4273ae2f99b04c9c82
+14:15:35.246 [main] DEBUG RESTFramework.JavaPracticeTest - delete
+14:15:35.893 [main] DEBUG RESTFramework.JavaPracticeTest - {"status":"OK"}
