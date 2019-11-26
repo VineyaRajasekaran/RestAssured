@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6250" started-at="2019-11-26T17:58:52Z" finished-at="2019-11-26T17:58:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6250" started-at="2019-11-26T17:58:52Z" finished-at="2019-11-26T17:58:59Z">
+      <class name="RESTFramework.AddBookParametrizationTest">
+        <test-method status="PASS" signature="getEnvironmentValues()[pri:0, instance:RESTFramework.AddBookParametrizationTest@4efbca5a]" name="getEnvironmentValues" is-config="true" duration-ms="9" started-at="2019-11-26T11:58:52Z" finished-at="2019-11-26T11:58:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEnvironmentValues -->
+        <test-method status="PASS" signature="addPlacePost(java.lang.String, java.lang.String)[pri:0, instance:RESTFramework.AddBookParametrizationTest@4efbca5a]" name="addPlacePost" duration-ms="3709" started-at="2019-11-26T11:58:52Z" data-provider="getData" finished-at="2019-11-26T11:58:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aqxtc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11323]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addPlacePost -->
+        <test-method status="PASS" signature="addPlacePost(java.lang.String, java.lang.String)[pri:0, instance:RESTFramework.AddBookParametrizationTest@4efbca5a]" name="addPlacePost" duration-ms="1285" started-at="2019-11-26T11:58:56Z" data-provider="getData" finished-at="2019-11-26T11:58:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Auuatxd]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[36494]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addPlacePost -->
+        <test-method status="PASS" signature="addPlacePost(java.lang.String, java.lang.String)[pri:0, instance:RESTFramework.AddBookParametrizationTest@4efbca5a]" name="addPlacePost" duration-ms="1221" started-at="2019-11-26T11:58:57Z" data-provider="getData" finished-at="2019-11-26T11:58:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aghtjhj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3284434]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addPlacePost -->
+      </class> <!-- RESTFramework.AddBookParametrizationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

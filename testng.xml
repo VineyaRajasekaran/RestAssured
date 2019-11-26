@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="resources.ExtentReporterNG"></listener>
+	</listeners>
+	<test thread-count="5" name="Test">
+		<classes>
+			<class name="RESTFramework.PracticeJIRATest" />
+			<class name="RESTFramework.JSONFromHashMapTest" />
+			<class name="RESTFramework.GooglePlaceSearchTest" />
+			<class name="RESTFramework.AddDeletePlaceXmlTest" />
+			<class name="RESTFramework.JiraApiCreateIssueTest" />
+			<class name="RESTFramework.AddDeletePlaceJsonTest" />
+			<class name="RESTFramework.AddBookParametrizationTest" />
+			<class name="RESTFramework.OAuth2Test" />
+			<class name="RESTFramework.JavaPracticeTest" />
+			<class name="RESTFramework.JiraApiAddCommentTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

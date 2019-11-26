@@ -1,0 +1,937 @@
+11:58:56.610 [main] DEBUG RESTFramework.AddBookParametrizationTest - I am in AddBookParametrization : isbn : Aqxtcaisle: 11323
+11:58:57.911 [main] DEBUG RESTFramework.AddBookParametrizationTest - I am in AddBookParametrization : isbn : Auuatxdaisle: 36494
+11:58:59.131 [main] DEBUG RESTFramework.AddBookParametrizationTest - I am in AddBookParametrization : isbn : Aghtjhjaisle: 3284434
+12:37:50.686 [main] DEBUG RESTFramework.OAuth2Test - C:\Users\dinav\RestAssuredProject\src\main\java\files\env.properties
+12:37:56.256 [main] DEBUG RESTFramework.PracticeJIRATest - sessionid F03FDCF9C401007B13B3905D566C9141
+12:38:02.268 [main] DEBUG RESTFramework.PracticeJIRATest - bugid 10420
+12:38:02.423 [main] DEBUG RESTFramework.PracticeJIRATest - sessionid F51080903B0393E4CCB74BAE0A3782F9
+12:38:02.973 [main] DEBUG RESTFramework.PracticeJIRATest - commentId 10215
+12:38:03.097 [main] DEBUG RESTFramework.PracticeJIRATest - sessionid E87722D1D8EEEE37DD66A60343EBE1F1
+12:38:03.564 [main] DEBUG RESTFramework.PracticeJIRATest - commentId 10215
+12:38:03.682 [main] DEBUG RESTFramework.PracticeJIRATest - sessionid BA986AB6DD24CD40FFF5CD551DFE0A1B
+12:38:05.634 [main] DEBUG RESTFramework.JSONFromHashMapTest - Id is : 2345hgd
+12:38:07.947 [main] DEBUG RESTFramework.GooglePlaceSearchTest - {
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -33.8585416,
+               "lng" : 151.2100441
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.85717357010728,
+                  "lng" : 151.2112493798927
+               },
+               "southwest" : {
+                  "lat" : -33.85987322989273,
+                  "lng" : 151.2085497201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "8e980ad0c819c33cdb1cea31e72d654ca61a7065",
+         "name" : "Cruise Bar",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112582655193348962755/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACtwh-jJkar-Cx9lA_2JLGtOKpxCCnvoRbhWxjj4MUMErQcfsz-NBmSCauuv6hqL8ZDLnqTMuWBKZJ4Y2AgcClR8RjVr_yxVxpJ0A8_GVUoAjkShjWFmYaCMhjl-Ll7OlEhCRXDtIp5N-cq-n7B-Qvi6aGhRdtJqskti3p52KrJS8vc3PLFpM_w",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJi6C1MxquEmsR9-c-3O48ykI",
+         "plus_code" : {
+            "compound_code" : "46R6+H2 The Rocks, New South Wales",
+            "global_code" : "4RRH46R6+H2"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJi6C1MxquEmsR9-c-3O48ykI",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 911,
+         "vicinity" : "Level 1, 2 and 3, Overseas Passenger Terminal, Circular Quay W, The Rocks"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -33.8677371,
+               "lng" : 151.2016936
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.86637842010727,
+                  "lng" : 151.2031597798928
+               },
+               "southwest" : {
+                  "lat" : -33.86907807989272,
+                  "lng" : 151.2004601201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f1e044040bd03ff06e19de4798b52dd926855281",
+         "name" : "Sydney Harbour Dinner Cruises",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 678,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109764923610545394994/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjw1nM2fS-P9S1zXfbiiup9S9lBLAp1cgfpZpGbdfxYzPtYpYM_9BceiSftz5kwR8ae5s3aGX32Qo2tByR_icJ9Q4dkhtDmYBvRtR-aRi9GJhZPkrWRN3GOCHBIa8vtTFEhCiNp66tGePK99-V8aKxPZQGhRNHnGy1-_kSD-_e_pO0qr8QmcPGg",
+               "width" : 1046
+            }
+         ],
+         "place_id" : "ChIJM1mOVTS6EmsRKaDzrTsgids",
+         "plus_code" : {
+            "compound_code" : "46J2+WM Sydney, New South Wales",
+            "global_code" : "4RRH46J2+WM"
+         },
+         "rating" : 5,
+         "reference" : "ChIJM1mOVTS6EmsRKaDzrTsgids",
+         "scope" : "GOOGLE",
+         "types" : [
+            "tourist_attraction",
+            "travel_agency",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "32 The Promenade, Sydney"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -33.8609391,
+               "lng" : 151.2098735
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.85958927010727,
+                  "lng" : 151.2112233298927
+               },
+               "southwest" : {
+                  "lat" : -33.86228892989272,
+                  "lng" : 151.2085236701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9ea7c77cb181b1f33d19c9d76121fcc6d5246ad8",
+         "name" : "Australian Cruise Group",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113088009011192061895/photos\"\u003eKeith Bauman\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYl3tyjnYFTXicJeyKVMo72GxVBxUeVRs7oV6QG-jAVxctmv0vZeaHbO3YVCX0xEEjfA2oieUPXDcOoUZ65B29ML3070qxv0HcqOorbz1fT7B1AiZQ8tY7DNhTEObUsFqEhAOENWhgwer5qq0Y69SNeZyGhTrzSvSKqTNEV1NO9EtSJEIUB7C3A",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJpU8KgUKuEmsRKErVGEaa11w",
+         "plus_code" : {
+            "compound_code" : "46Q5+JW Sydney, New South Wales",
+            "global_code" : "4RRH46Q5+JW"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJpU8KgUKuEmsRKErVGEaa11w",
+         "scope" : "GOOGLE",
+         "types" : [
+            "travel_agency",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5,
+         "vicinity" : "6 Cirular Quay, Sydney"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -33.8686058,
+               "lng" : 151.2018206
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.86724947010728,
+                  "lng" : 151.2032704798927
+               },
+               "southwest" : {
+                  "lat" : -33.86994912989272,
+                  "lng" : 151.2005708201072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "21a0b251c9b8392186142c798263e289fe45b4aa",
+         "name" : "Rhythmboat Cruises",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2269,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104066891898402903288/photos\"\u003eRhythmboat Sydney Harbour Cruises\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA10NrxDn4WcxOJrnF05ePzYk5JhLGvzdHogtrw297Jv-zLs1VLd25dEL1Ebg4xKY6sDKzNUplS_d_Hic7GXYCFF_kjlGW0fkCD-Heui_-bbCpoh587ZV_ac3JRDegfbauEhCzugVwpPh0eLjr9g1CO79jGhScBLxgYWuldrdiy5qbok_DPSxueA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJyWEHuEmuEmsRm9hTkapTCrk",
+         "plus_code" : {
+            "compound_code" : "46J2+HP Sydney, New South Wales",
+            "global_code" : "4RRH46J2+HP"
+         },
+         "rating" : 4,
+         "reference" : "ChIJyWEHuEmuEmsRm9hTkapTCrk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "travel_agency",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 27,
+         "vicinity" : "King Street Wharf, King St, Sydney"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -33.8584902,
+               "lng" : 151.2099067
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.85713117010727,
+                  "lng" : 151.2111837298927
+               },
+               "southwest" : {
+                  "lat" : -33.85983082989272,
+                  "lng" : 151.2084840701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6facf611e56f3d6f232a24e60d9392759bbd43fa",
+         "name" : "Junk Lounge",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104473997089847488714/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA7Zx5gR_uuolq_wPpyiE3l9Yq020hBA40JrX4eOt3ecopMkk9EyIFwBneriVw3xNlKY7NkRGhkhfmf-Zb9GYoGeCYNWUBf_qPK_vK7aKqQCaziLJBx0gwU2eC51pSg_JFEhCnV4yV7wjeRT_1Fv4IDsFBGhRIXVxx9ewu3OPJhmDa8gsdg1bLnA",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJq9W3HZOvEmsRYtKNTRmq34M",
+         "plus_code" : {
+            "compound_code" : "46R5+JX The Rocks, New South Wales",
+            "global_code" : "4RRH46R5+JX"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJq9W3HZOvEmsRYtKNTRmq34M",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 24,
+         "vicinity" : "Level 2, Overseas Passenger Terminal, Circular Quay W, The Rocks"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -33.8675865,
+               "lng" : 151.2015918
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.86618707010727,
+                  "lng" : 151.2029995798927
+               },
+               "southwest" : {
+                  "lat" : -33.86888672989271,
+                  "lng" : 151.2002999201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0f0b34443f580704d5bc9975b02066cf6ab3d79e",
+         "name" : "Sydney Harbour Lunch Cruise",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 545,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102428257696490257922/photos\"\u003eSydney Harbour Lunch Cruise\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVKwvXTFrT6QMoEphGnWAvt7ICSze1uB4jtwlq35LEL-okZ0Sgnq03puet6sZ8Cc5T12wXwDcfYWeZIj-L2_DKiHYrpc19a89PButt2AJQjotBKZGmI0_NmU-1D9rL_YHEhCrhQeA3lF-nv2LpXnFn_aTGhQYI0MZzOMePjn4bdvlQIcbMQu35g",
+               "width" : 969
+            }
+         ],
+         "place_id" : "ChIJUbf3iDiuEmsROJxXbhYO7cM",
+         "plus_code" : {
+            "compound_code" : "46J2+XJ Sydney, New South Wales",
+            "global_code" : "4RRH46J2+XJ"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJUbf3iDiuEmsROJxXbhYO7cM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "travel_agency",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 14,
+         "vicinity" : "5/32 The Promenade, Sydney"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -33.8675885,
+               "lng" : 151.2015896
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.86618797010728,
+                  "lng" : 151.2029996798927
+               },
+               "southwest" : {
+                  "lat" : -33.86888762989273,
+                  "lng" : 151.2003000201072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "dec25eec746943ffbc96e3719623dbbb12d4d2a2",
+         "name" : "Magistic Cruises",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 384,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108269116761340400861/photos\"\u003eMagistic Cruises\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA7afNK6W6PC-niMDybfhKNoHIQ6VjrtPxw4TmiLlkeZRrVKwKembEowwW2e8ixhIIOC783SmRSnXZ74UU4hLYPoq6Hi0iibWKUKvzUo9crHvfmcl-IJ_zGjX5fMK-WSd_EhA5LJLPuZr0LwPJhI-BkUgsGhQKHKEPjjXH2OgHslY4SRZozeJP2g",
+               "width" : 512
+            }
+         ],
+         "place_id" : "ChIJxRjqYTiuEmsRGebAA_chDLE",
+         "plus_code" : {
+            "compound_code" : "46J2+XJ Sydney, New South Wales",
+            "global_code" : "4RRH46J2+XJ"
+         },
+         "rating" : 4,
+         "reference" : "ChIJxRjqYTiuEmsRGebAA_chDLE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "tourist_attraction",
+            "travel_agency",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 75,
+         "vicinity" : "King Street Wharf, 32 The Promenade, Sydney"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -33.8582724,
+               "lng" : 151.2100117
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.85690727010728,
+                  "lng" : 151.2112615298927
+               },
+               "southwest" : {
+                  "lat" : -33.85960692989272,
+                  "lng" : 151.2085618701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "968577d1adec336585598220ccaba8e05f3b9b54",
+         "name" : "Yuki's at the Quay",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 517,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105386121579014030265/photos\"\u003eKatrina Sammut\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAuR1z2M9QnK2TWFDOtpLleeop32v3g45NLN96RW-4Mte9Ciqlux3hnZiMJ7ODjwcf7lFoRFpAGvG6k9uIQighplQ5xkNzzT9mnACIdVA5DLGTcmMtTp2rNOyADZl9Xl0bEhB2N4daQ_cNkLS14ekY941xGhRoJpXKVF64pdJwUA1TuqvXA3ha3Q",
+               "width" : 920
+            }
+         ],
+         "place_id" : "ChIJkUcHV12uEmsRdEyuYJC4zDk",
+         "plus_code" : {
+            "compound_code" : "46R6+M2 The Rocks, New South Wales",
+            "global_code" : "4RRH46R6+M2"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJkUcHV12uEmsRdEyuYJC4zDk",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 89,
+         "vicinity" : "Level 4 Overseas Passenger Terminal, The Rocks"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -33.8617535,
+               "lng" : 151.2094201
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.86046137010728,
+                  "lng" : 151.2107450798927
+               },
+               "southwest" : {
+                  "lat" : -33.86316102989272,
+                  "lng" : 151.2080454201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b7a5aac50f4ff2bd9fe4a141a25d5a6e26d8843a",
+         "name" : "Neptune Palace Restaurant",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 625,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113719639442868633401/photos\"\u003eAshley Hughes\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAREgTzYGbS1m6GJUXTYhDfNKAqG8OHzNjhDDYf8fPCi-GC-A2OT5rVibOVBASb0KMfcu5IkkzLkEIEFys0nCx0VZLlEjrTgr3jQETF6CGKd12EJoj18-rlVrMwfsuF0SIEhDJxPwjtsYeyAfX1TbiRnK_GhR-PzhTISUaVzPRfpsdLXbnkE6IZA",
+               "width" : 938
+            }
+         ],
+         "place_id" : "ChIJeUAY4GmuEmsRfnpI65gCjgQ",
+         "plus_code" : {
+            "compound_code" : "46Q5+7Q Sydney, New South Wales",
+            "global_code" : "4RRH46Q5+7Q"
+         },
+         "price_level" : 3,
+         "rating" : 4.3,
+         "reference" : "ChIJeUAY4GmuEmsRfnpI65gCjgQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 361,
+         "vicinity" : "Gateway Building Level 1 Corner of Pitt and, Alfred St, Sydney"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -33.8792832,
+               "lng" : 151.2040568
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.87768002010727,
+                  "lng" : 151.2054665298927
+               },
+               "southwest" : {
+                  "lat" : -33.88037967989272,
+                  "lng" : 151.2027668701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "286607dcbd4b5f8f26a505b4bce2ce5c45a4fed1",
+         "name" : "Emperor's Garden Restaurant",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2736,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112656089366852202518/photos\"\u003eätefan Alaköa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARNyADUZW7w2e0Z1Ym1_yb56mgSF4996JF8FVkG8xwxqWBDMkzVEyrKsoOqJetFP913yeYyGGRldrHQBVY4XSUYAm5AcHC2vzNeQRLyl6Qq0ulSj8DgI85WMlrz1tXKzeEhA3RNIaHJxjyBiUrOs8pq-SGhRuL3_XzLqA6ZBxcxu2pZSBl1UBRA",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJwc0efCSuEmsRY3tDhX7ONts",
+         "plus_code" : {
+            "compound_code" : "46C3+7J Haymarket, New South Wales",
+            "global_code" : "4RRH46C3+7J"
+         },
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "ChIJwc0efCSuEmsRY3tDhX7ONts",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 673,
+         "vicinity" : "96-100 Hay St, Haymarket"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -33.8567519,
+               "lng" : 151.2049127
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.85549117010728,
+                  "lng" : 151.2062767298927
+               },
+               "southwest" : {
+                  "lat" : -33.85819082989272,
+                  "lng" : 151.2035770701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "12ecbb364c858ef4f4e54d42d4fd9d6f1abb2c6d",
+         "name" : "Lavana Restaurant",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2300,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107489844982782951646/photos\"\u003eDenis\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAUQ7UIqWx0qn_6-hWkkTXk1kaez0OiPuWeg2fsDzWGdcaOJ863D1cok5oFi6EueFpy-AKDjJwWTnPOY8d8NL5iWYlhzUgVqv4Q49PIfIOwX5bZuWHufOGZlO3jacQdKuLEhCyZa8Q1q5UjPE_3y0Sr50jGhT-dTfA04lG5okfGioUDE5hYAMv_g",
+               "width" : 3857
+            }
+         ],
+         "place_id" : "ChIJH0fipVyuEmsRmLcS6SvODcE",
+         "plus_code" : {
+            "compound_code" : "46V3+7X Dawes Point, New South Wales",
+            "global_code" : "4RRH46V3+7X"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJH0fipVyuEmsRmLcS6SvODcE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "cafe",
+            "bar",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 158,
+         "vicinity" : "6/17A Hickson Rd, Dawes Point"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -33.8806594,
+               "lng" : 151.2046664
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.87934012010728,
+                  "lng" : 151.2061456298927
+               },
+               "southwest" : {
+                  "lat" : -33.88203977989272,
+                  "lng" : 151.2034459701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2eb6ebf9434f22258a772bf11b381a7bf26f6411",
+         "name" : "Pho Pasteur",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105701389904527408294/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAu27CJffkiLJBNq6igvn8Muoby1Uqk3SudDLU8-dQRs9XHi725xEVVfj-GkvjxtZPOoIbXHRAzbimk2J_0OGMDcBsAIQBCX3wSNIWB3TQrM6TeLIDr_okFwe7Jwuc-MiXEhAhMl-gFbhsdX4kmefGmJ8mGhTshCXkPG3k2KmtrwAF3BAIPWIL5A",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ-WqPgyOuEmsRZGa1fiF-wGc",
+         "plus_code" : {
+            "compound_code" : "4693+PV Haymarket, New South Wales",
+            "global_code" : "4RRH4693+PV"
+         },
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "ChIJ-WqPgyOuEmsRZGa1fiF-wGc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 372,
+         "vicinity" : "709 George St, Haymarket"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -33.8583293,
+               "lng" : 151.1880952
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.85687767010728,
+                  "lng" : 151.1894385798927
+               },
+               "southwest" : {
+                  "lat" : -33.85957732989272,
+                  "lng" : 151.1867389201072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4349f9017fe6b3e59eb7616c6944fc1c64f8ad63",
+         "name" : "1880 Bistro",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110688379573300126585/photos\"\u003eGreg Thongsophon\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdfqaj0eYXDcfPJOaijR2TvcFbZq7VfLWaVzyA7fAquudefsBlSBPqJKxQGjASscyJSrIuLCsrRAe3Kapz87GQBzXsWe5ZStbOusgbQS-dmL0jTiECEKp6XGCmCEBpihsEhAUYerL9u38_HCko3IidcAXGhRFqnBDZVNHWg1e99BEGYu2eULhyg",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJq08jEcSvEmsRNhTtGV0z7K0",
+         "plus_code" : {
+            "compound_code" : "45RQ+M6 Balmain, New South Wales",
+            "global_code" : "4RRH45RQ+M6"
+         },
+         "rating" : 0,
+         "reference" : "ChIJq08jEcSvEmsRNhTtGV0z7K0",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "156 Darling St, Balmain"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -33.8777972,
+               "lng" : 151.2036586
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.87651357010728,
+                  "lng" : 151.2049940798927
+               },
+               "southwest" : {
+                  "lat" : -33.87921322989272,
+                  "lng" : 151.2022944201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b0b8a475f3ed85e4122065af31465ccdaa71df98",
+         "name" : "At Thai Cuisine (??????????)",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1837,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104337509705732808533/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAArSNtwLR5I8WdL6QctU7VQcYmZmuT54vyPyBXanXzNINEZ50gh1Pw3OuGplzmeKHd3toF_VXBGBkpowAdEyQSck_iwFItBwAY5scDx7yEdQ6_NvV_pkhgmJHXUO3bw2guEhDKvkelVv6dG0770Oy32mTpGhSjzUiGo7eL2BHUfBcHXKbBzJ5ZVg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJv2VysiSuEmsR_d5YoJkGpaQ",
+         "plus_code" : {
+            "compound_code" : "46C3+VF Haymarket, New South Wales",
+            "global_code" : "4RRH46C3+VF"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJv2VysiSuEmsR_d5YoJkGpaQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 41,
+         "vicinity" : "Shop 209/25 - 29 Dixon St, Haymarket"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -33.85859,
+               "lng" : 151.2091896
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.85722487010728,
+                  "lng" : 151.2104743298927
+               },
+               "southwest" : {
+                  "lat" : -33.85992452989272,
+                  "lng" : 151.2077746701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "28d79e58234567dccd75bc999834483a3e9ef914",
+         "name" : "Wild Ginger Dining + Bar",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3203,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108137778397307449630/photos\"\u003eWild Ginger Dining + Bar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA34we09m1igQNu0f2dhtszHJ_xQvrBzn3eNbrhqYBESRxvIu5ynAwF5RmLEV3UsQt11E0yupnmcqFF80AP_MM6xrQbxDPYRe8F3NOvTjm89P6LyjcU2aevUCR7QzabItTEhA0vdrcgFr5BqTjmoPJaMr9GhQcB_GjhtnUddTnkaGgQKGwmTOpgw",
+               "width" : 4800
+            }
+         ],
+         "place_id" : "ChIJbyKrs0KuEmsRx9fE2LPB08U",
+         "plus_code" : {
+            "compound_code" : "46R5+HM The Rocks, New South Wales",
+            "global_code" : "4RRH46R5+HM"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJbyKrs0KuEmsRx9fE2LPB08U",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 136,
+         "vicinity" : "106 George St, The Rocks"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -33.873825,
+               "lng" : 151.192584
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.87247632010728,
+                  "lng" : 151.1939354798927
+               },
+               "southwest" : {
+                  "lat" : -33.87517597989272,
+                  "lng" : 151.1912358201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "48d507d8c878b31eca0b7067698195ab57904c75",
+         "name" : "Twin Peeks Afloat - Sydney's only luxury adult entertainment cruise",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1632,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112593646930206915862/photos\"\u003eTwin Peeks Afloat - Sydney&#39;s only luxury adult entertainment cruise\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAADQ-kS_r1b5d2iRIiepTDkQdr-oVp5ZqEW_9Qm3CEfyWpDCznyA5U6plFyHLbE3TNfdfEU3Uu9hcdAnE46LS9qh0UrVVVsDmyvZjOiwReJYg5SkKNZq_BAlPGMImr4zRHEhBXigu5aoyD0qn304yBT5s_GhRnqVCngsv-cXJHJzFujq1KXasrZw",
+               "width" : 1224
+            }
+         ],
+         "place_id" : "ChIJD5bUHTKuEmsRhoLAfaJq86U",
+         "plus_code" : {
+            "compound_code" : "45GV+F2 Pyrmont, New South Wales",
+            "global_code" : "4RRH45GV+F2"
+         },
+         "rating" : 0,
+         "reference" : "ChIJD5bUHTKuEmsRhoLAfaJq86U",
+         "scope" : "GOOGLE",
+         "types" : [
+            "travel_agency",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0,
+         "vicinity" : "155/3 Pyrmont Bridge Rd, Pyrmont"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -33.8579588,
+               "lng" : 151.210081
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.85678082010728,
+                  "lng" : 151.2112821298927
+               },
+               "southwest" : {
+                  "lat" : -33.85948047989272,
+                  "lng" : 151.2085824701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ba14396fb2147225a8f83f67f111d6f1e86f3022",
+         "name" : "Quay Restaurant",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114247032184063224295/photos\"\u003eMike Hiwaymann\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYcKB0TM-4V3RyUq-_yJHn3VFAPhyIsRvAyr5rlAA7wI7ErVDTw7Itv8DXhJGGqanyEfpQWvHjTBBY3kmg786wztle8Kx_Y8hAtAtzO4Fx92h-5uydZkBd8A3GMwuDn8MEhAE8P_fN9CSpiy2N-lm2VHzGhRyFPLQDomILOaWoQRbYyf-_DxSmQ",
+               "width" : 1056
+            }
+         ],
+         "place_id" : "ChIJ4cQcDV2uEmsRMxTEHBIe9ZQ",
+         "plus_code" : {
+            "compound_code" : "46R6+R2 The Rocks, New South Wales",
+            "global_code" : "4RRH46R6+R2"
+         },
+         "price_level" : 4,
+         "rating" : 4.4,
+         "reference" : "ChIJ4cQcDV2uEmsRMxTEHBIe9ZQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 637,
+         "vicinity" : "Overseas Passenger Terminal, The Rocks"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -33.858406,
+               "lng" : 151.184537
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.85699782010728,
+                  "lng" : 151.1858527798927
+               },
+               "southwest" : {
+                  "lat" : -33.85969747989272,
+                  "lng" : 151.1831531201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "35c7aad34cdb00de544d8f83d3a1ee49e3c771bf",
+         "name" : "The London Hotel",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 5472,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109807891112275089987/photos\"\u003eThe London Hotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARw9kgorRQWmhsY4eRf5eQmfYqhIeA3bmY5XRF20Kez_0JsT9wkjZhVTqCboNfCPn_ZwHwCDS4N2MxJQ4VdgXpdz-4uxMDlwqEV_tRR8SN9Uh9u_0XM4nh-HTDduiMpucEhCJvMnnISkSS9qW3jADZBQ9GhRvLpRRCQSTFfim-HlmGbvtllprCA",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJWapAjLSvEmsRD_UqkZN5OEg",
+         "plus_code" : {
+            "compound_code" : "45RM+JR Balmain, New South Wales",
+            "global_code" : "4RRH45RM+JR"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJWapAjLSvEmsRD_UqkZN5OEg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 394,
+         "vicinity" : "234 Darling St, Balmain"
+      }
+   ],
+   "status" : "OK"
+}
+
+12:38:08.099 [main] DEBUG RESTFramework.GooglePlaceSearchTest - 18
+12:38:08.189 [main] DEBUG RESTFramework.GooglePlaceSearchTest - Cruise Bar
+12:38:08.214 [main] DEBUG RESTFramework.GooglePlaceSearchTest - Sydney Harbour Dinner Cruises
+12:38:08.236 [main] DEBUG RESTFramework.GooglePlaceSearchTest - Australian Cruise Group
+12:38:08.256 [main] DEBUG RESTFramework.GooglePlaceSearchTest - Rhythmboat Cruises
+12:38:08.276 [main] DEBUG RESTFramework.GooglePlaceSearchTest - Junk Lounge
+12:38:08.297 [main] DEBUG RESTFramework.GooglePlaceSearchTest - Sydney Harbour Lunch Cruise
+12:38:08.328 [main] DEBUG RESTFramework.GooglePlaceSearchTest - Magistic Cruises
+12:38:08.370 [main] DEBUG RESTFramework.GooglePlaceSearchTest - Yuki's at the Quay
+12:38:08.390 [main] DEBUG RESTFramework.GooglePlaceSearchTest - Neptune Palace Restaurant
+12:38:08.417 [main] DEBUG RESTFramework.GooglePlaceSearchTest - Emperor's Garden Restaurant
+12:38:08.438 [main] DEBUG RESTFramework.GooglePlaceSearchTest - Lavana Restaurant
+12:38:08.452 [main] DEBUG RESTFramework.GooglePlaceSearchTest - Pho Pasteur
+12:38:08.469 [main] DEBUG RESTFramework.GooglePlaceSearchTest - 1880 Bistro
+12:38:08.505 [main] DEBUG RESTFramework.GooglePlaceSearchTest - At Thai Cuisine (??????????)
+12:38:08.524 [main] DEBUG RESTFramework.GooglePlaceSearchTest - Wild Ginger Dining + Bar
+12:38:08.536 [main] DEBUG RESTFramework.GooglePlaceSearchTest - Twin Peeks Afloat - Sydney's only luxury adult entertainment cruise
+12:38:08.559 [main] DEBUG RESTFramework.GooglePlaceSearchTest - Quay Restaurant
+12:38:08.571 [main] DEBUG RESTFramework.GooglePlaceSearchTest - The London Hotel
+12:38:09.240 [main] DEBUG RESTFramework.AddDeletePlaceXmlTest - <?xml version="1.0"?>
+<response><status>OK</status><place_id>2826666ce4ffc91e7abb3748fd359645</place_id><scope>APP</scope><reference>8f5c3f1bc785133bf227423643b6192a8f5c3f1bc785133bf227423643b6192a</reference><id>8f5c3f1bc785133bf227423643b6192a</id></response>
+
+12:38:09.358 [main] DEBUG RESTFramework.AddDeletePlaceXmlTest - placeid is 2826666ce4ffc91e7abb3748fd359645
+12:38:10.153 [main] DEBUG RESTFramework.AddDeletePlaceXmlTest - <?xml version="1.0"?>
+<response><status>OK</status></response>
+
+12:38:11.691 [main] DEBUG RESTFramework.AddDeletePlaceJsonTest - placeid is af3d8d29d7d4fc0a8738e55f4cae3c50
+12:38:12.387 [main] DEBUG RESTFramework.AddDeletePlaceJsonTest - {"status":"OK"}
+12:38:13.023 [main] DEBUG RESTFramework.AddBookParametrizationTest - Id is : Aqxtc11323
+12:38:13.594 [main] DEBUG RESTFramework.AddBookParametrizationTest - I am in AddBookParametrization : isbn : Aqxtc aisle: 11323
+12:38:14.239 [main] DEBUG RESTFramework.AddBookParametrizationTest - Id is : Auuatxd36494
+12:38:14.813 [main] DEBUG RESTFramework.AddBookParametrizationTest - I am in AddBookParametrization : isbn : Auuatxd aisle: 36494
+12:38:15.436 [main] DEBUG RESTFramework.AddBookParametrizationTest - Id is : Aghtjhj3284434
+12:38:16.024 [main] DEBUG RESTFramework.AddBookParametrizationTest - I am in AddBookParametrization : isbn : Aghtjhj aisle: 3284434
+12:38:35.437 [main] DEBUG RESTFramework.OAuth2Test - currenturlhttps://rahulshettyacademy.com/getCourse.php?code=4%2FtgEk-ZHDoNnU11hixyZ3BQXtnZIyG8GrpJClQD1sirIwqMPy9dw79oYfItOAbxsHibPijkyOLToAQ0I0FHxZrPI&scope=email+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&session_state=36565010deff8050a4be46169c231738dfdfc5b5..df6f&prompt=none#
+12:38:35.441 [main] DEBUG RESTFramework.OAuth2Test - authcodehttps://rahulshettyacademy.com/getCourse.php?code=4%2FtgEk-ZHDoNnU11hixyZ3BQXtnZIyG8GrpJClQD1sirIwqMPy9dw79oYfItOAbxsHibPijkyOLToAQ0I0FHxZrPI
+12:38:35.447 [main] DEBUG RESTFramework.OAuth2Test - url14%2FtgEk-ZHDoNnU11hixyZ3BQXtnZIyG8GrpJClQD1sirIwqMPy9dw79oYfItOAbxsHibPijkyOLToAQ0I0FHxZrPI
+12:38:35.851 [main] DEBUG RESTFramework.OAuth2Test - {
+  "access_token": "ya29.ImCyB2z3_KDB1yEI2h91fEBnZWbly1K35qQokbAgp-_6U4uJu6xrMIcNV7ixbVawtrXVXvqXIRfWGPhZJGmF4pIXT4cDbrsQ6OQSFGPfxA1Cok-zwx-kW1kE3hXgiKpWpQ4",
+  "expires_in": 3597,
+  "scope": "https://www.googleapis.com/auth/userinfo.email openid",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImRlZThkM2RhZmJmMzEyNjJhYjkzNDdkNjIwMzgzMjE3YWZkOTZjYTMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI2OTIxODMxMDMxMDctcDBtN2VudDJoazdzdWd1djR2cTIyaGpjZmhjcjQzcGouYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI2OTIxODMxMDMxMDctcDBtN2VudDJoazdzdWd1djR2cTIyaGpjZmhjcjQzcGouYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTAzMzE3NzUxODU1ODgxNjg4OTUiLCJlbWFpbCI6InZpbmV5YUBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6ImVmUlhKRERJcTcxaGFvZlZIY0lxNVEiLCJpYXQiOjE1NzQ3OTM1MTUsImV4cCI6MTU3NDc5NzExNX0.MaQX24NavODOnaZFEHr43BSBc1PMKKuvjiUgeYTLjUCJpZ3tvoAM7TYhS4REJNleFwRi0pWR7L2J7cwjRJsofmeB3EZLn7pDtaaaJYAA3voT0h4G7scCG4vZZduXMa2qh1Z2y-jMcrYk03ZdAIuXQ_xTb8dtySksl37jBvXLezcMAmymIEY7Y_gDK-eqIhMdJxcW6j393AUtINznC4Y7FtxpslUCDR4Dil4OWkqCFUYNwADqu1Qn19Ly7WKkiSn8LNlQKd0XavLs0-U5n9KEcLrNkzc2L9fqNQ30Ibj-fPFKiVfIrIhZ8hyncD2GQHbh0Aqt97VJGPvszGCzEIPm9w"
+}
+12:38:35.877 [main] DEBUG RESTFramework.OAuth2Test - accesstokenya29.ImCyB2z3_KDB1yEI2h91fEBnZWbly1K35qQokbAgp-_6U4uJu6xrMIcNV7ixbVawtrXVXvqXIRfWGPhZJGmF4pIXT4cDbrsQ6OQSFGPfxA1Cok-zwx-kW1kE3hXgiKpWpQ4
+12:38:37.678 [main] DEBUG RESTFramework.OAuth2Test - RahulShetty
+12:38:37.678 [main] DEBUG RESTFramework.OAuth2Test - https://www.linkedin.com/in/rahul-shetty-trainer/
+12:38:37.683 [main] DEBUG RESTFramework.OAuth2Test - 40
+12:38:38.363 [main] DEBUG RESTFramework.JavaPracticeTest - {"status":"OK","place_id":"dcb75f2e855d4675f6692ab0bacb5fdf","scope":"APP","reference":"85f383e6fd05c12398b5c17ee82358b885f383e6fd05c12398b5c17ee82358b8","id":"85f383e6fd05c12398b5c17ee82358b8"}
+12:38:38.373 [main] DEBUG RESTFramework.JavaPracticeTest - dcb75f2e855d4675f6692ab0bacb5fdf
+12:38:38.394 [main] DEBUG RESTFramework.JavaPracticeTest - delete
+12:38:39.030 [main] DEBUG RESTFramework.JavaPracticeTest - {"status":"OK"}

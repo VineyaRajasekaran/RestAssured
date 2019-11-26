@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="48599" started-at="2019-11-26T18:37:50Z" finished-at="2019-11-26T18:38:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="48599" started-at="2019-11-26T18:37:50Z" finished-at="2019-11-26T18:38:39Z">
+      <class name="RESTFramework.JavaPracticeTest">
+        <test-method status="PASS" signature="Sample()[pri:0, instance:RESTFramework.JavaPracticeTest@399f45b1]" name="Sample" duration-ms="1346" started-at="2019-11-26T12:38:37Z" finished-at="2019-11-26T12:38:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample -->
+      </class> <!-- RESTFramework.JavaPracticeTest -->
+      <class name="RESTFramework.OAuth2Test">
+        <test-method status="PASS" signature="QAuthTest()[pri:0, instance:RESTFramework.OAuth2Test@79e2c065]" name="QAuthTest" duration-ms="21656" started-at="2019-11-26T12:38:16Z" finished-at="2019-11-26T12:38:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QAuthTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:RESTFramework.OAuth2Test@79e2c065]" name="closeBrowser" is-config="true" duration-ms="197" started-at="2019-11-26T12:38:39Z" finished-at="2019-11-26T12:38:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- RESTFramework.OAuth2Test -->
+      <class name="RESTFramework.JSONFromHashMapTest">
+        <test-method status="PASS" signature="JsonFromHashMap()[pri:0, instance:RESTFramework.JSONFromHashMapTest@36bc55de]" name="JsonFromHashMap" duration-ms="2378" started-at="2019-11-26T12:38:03Z" finished-at="2019-11-26T12:38:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JsonFromHashMap -->
+      </class> <!-- RESTFramework.JSONFromHashMapTest -->
+      <class name="RESTFramework.PracticeJIRATest">
+        <test-method status="PASS" signature="CreateJiraIssue()[pri:0, instance:RESTFramework.PracticeJIRATest@38c6f217]" name="CreateJiraIssue" duration-ms="13114" started-at="2019-11-26T12:37:50Z" finished-at="2019-11-26T12:38:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateJiraIssue -->
+      </class> <!-- RESTFramework.PracticeJIRATest -->
+      <class name="RESTFramework.AddBookParametrizationTest">
+        <test-method status="PASS" signature="getEnvironmentValues()[pri:0, instance:RESTFramework.AddBookParametrizationTest@7e07db1f]" name="getEnvironmentValues" is-config="true" duration-ms="24" started-at="2019-11-26T12:37:50Z" finished-at="2019-11-26T12:37:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEnvironmentValues -->
+        <test-method status="PASS" signature="getEnvironmentValues()[pri:0, instance:RESTFramework.AddDeletePlaceJsonTest@35cabb2a]" name="getEnvironmentValues" is-config="true" duration-ms="1" started-at="2019-11-26T12:37:50Z" finished-at="2019-11-26T12:37:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEnvironmentValues -->
+        <test-method status="PASS" signature="getEnvironmentValues()[pri:0, instance:RESTFramework.AddDeletePlaceXmlTest@478190fc]" name="getEnvironmentValues" is-config="true" duration-ms="0" started-at="2019-11-26T12:37:50Z" finished-at="2019-11-26T12:37:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEnvironmentValues -->
+        <test-method status="PASS" signature="getEnvironmentValues()[pri:0, instance:RESTFramework.JSONFromHashMapTest@36bc55de]" name="getEnvironmentValues" is-config="true" duration-ms="5" started-at="2019-11-26T12:37:50Z" finished-at="2019-11-26T12:37:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEnvironmentValues -->
+        <test-method status="PASS" signature="getEnvironmentValues()[pri:0, instance:RESTFramework.JavaPracticeTest@399f45b1]" name="getEnvironmentValues" is-config="true" duration-ms="1" started-at="2019-11-26T12:37:50Z" finished-at="2019-11-26T12:37:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEnvironmentValues -->
+        <test-method status="PASS" signature="getEnvironmentValues()[pri:0, instance:RESTFramework.JiraApiCreateIssueTest@222545dc]" name="getEnvironmentValues" is-config="true" duration-ms="1" started-at="2019-11-26T12:37:50Z" finished-at="2019-11-26T12:37:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEnvironmentValues -->
+        <test-method status="PASS" signature="getEnvironmentValues()[pri:0, instance:RESTFramework.OAuth2Test@79e2c065]" name="getEnvironmentValues" is-config="true" duration-ms="29" started-at="2019-11-26T12:37:50Z" finished-at="2019-11-26T12:37:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEnvironmentValues -->
+        <test-method status="PASS" signature="getEnvironmentValues()[pri:0, instance:RESTFramework.PracticeJIRATest@38c6f217]" name="getEnvironmentValues" is-config="true" duration-ms="1" started-at="2019-11-26T12:37:50Z" finished-at="2019-11-26T12:37:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEnvironmentValues -->
+        <test-method status="PASS" signature="addPlacePost(java.lang.String, java.lang.String)[pri:0, instance:RESTFramework.AddBookParametrizationTest@7e07db1f]" name="addPlacePost" duration-ms="1195" started-at="2019-11-26T12:38:12Z" data-provider="getData" finished-at="2019-11-26T12:38:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aqxtc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11323]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addPlacePost -->
+        <test-method status="PASS" signature="addPlacePost(java.lang.String, java.lang.String)[pri:0, instance:RESTFramework.AddBookParametrizationTest@7e07db1f]" name="addPlacePost" duration-ms="1221" started-at="2019-11-26T12:38:13Z" data-provider="getData" finished-at="2019-11-26T12:38:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Auuatxd]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[36494]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addPlacePost -->
+        <test-method status="PASS" signature="addPlacePost(java.lang.String, java.lang.String)[pri:0, instance:RESTFramework.AddBookParametrizationTest@7e07db1f]" name="addPlacePost" duration-ms="1210" started-at="2019-11-26T12:38:14Z" data-provider="getData" finished-at="2019-11-26T12:38:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aghtjhj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3284434]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addPlacePost -->
+      </class> <!-- RESTFramework.AddBookParametrizationTest -->
+      <class name="RESTFramework.AddDeletePlaceXmlTest">
+        <test-method status="PASS" signature="addPlacePost()[pri:0, instance:RESTFramework.AddDeletePlaceXmlTest@478190fc]" name="addPlacePost" duration-ms="1583" started-at="2019-11-26T12:38:08Z" finished-at="2019-11-26T12:38:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addPlacePost -->
+      </class> <!-- RESTFramework.AddDeletePlaceXmlTest -->
+      <class name="RESTFramework.GooglePlaceSearchTest">
+        <test-method status="PASS" signature="testGet()[pri:0, instance:RESTFramework.GooglePlaceSearchTest@67d48005]" name="testGet" duration-ms="2357" started-at="2019-11-26T12:38:06Z" finished-at="2019-11-26T12:38:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGet -->
+      </class> <!-- RESTFramework.GooglePlaceSearchTest -->
+      <class name="RESTFramework.AddDeletePlaceJsonTest">
+        <test-method status="PASS" signature="addPlacePost()[pri:0, instance:RESTFramework.AddDeletePlaceJsonTest@35cabb2a]" name="addPlacePost" duration-ms="1586" started-at="2019-11-26T12:38:10Z" finished-at="2019-11-26T12:38:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addPlacePost -->
+      </class> <!-- RESTFramework.AddDeletePlaceJsonTest -->
+      <class name="RESTFramework.JiraApiCreateIssueTest">
+        <test-method status="PASS" signature="createIssue()[pri:0, instance:RESTFramework.JiraApiCreateIssueTest@222545dc]" name="createIssue" duration-ms="648" started-at="2019-11-26T12:38:10Z" finished-at="2019-11-26T12:38:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createIssue -->
+      </class> <!-- RESTFramework.JiraApiCreateIssueTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
